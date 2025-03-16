@@ -20,7 +20,6 @@ This project demonstrates how to use the builder pattern to create composable, e
 function-pipeline/
 ├── src/
 │   ├── createFunction.ts  # Core function builder implementation
-│   ├── types.ts           # TypeScript interfaces for data models
 │   └── index.ts           # Main pipeline implementation
 ├── package.json
 └── tsconfig.json
